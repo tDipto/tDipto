@@ -1,7 +1,7 @@
 # Hello! I'm Tanzim Rahman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 - 🎓 I'm currently studying Computer Science and Engineering at Chittagong University of Engineering and Technology.
-- 🌱 I’m currently learning about Backend Development, with a keen interest in NodeJS and Django.
+- 🌱 I’m currently focusing on Backend Development, with a particular emphasis on Node.js and Django.
 - 📄 Know about my experiences [Resume](https://harlequin-alta-37.tiiny.site)
 - 📫 How to reach me: tdipto1@gmail.com
 
