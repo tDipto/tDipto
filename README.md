@@ -2,7 +2,7 @@
 
 - 🎓 I'm currently studying Computer Science and Engineering at Chittagong University of Engineering and Technology.
 - 🌱 I’m currently focusing on Backend Development, with a particular emphasis on Node.js and Django.
-- 📄 Know about my experiences [Resume](https://harlequin-alta-37.tiiny.site)
+- 📄 Know about my experiences [Resume](https://copper-corinna-7.tiiny.site)
 - 📫 How to reach me tdipto1@gmail.com
 
 
