@@ -59,6 +59,9 @@
 </a>
 
 
+
+
+
 <h3 align="left">Databases:</h3>
 <p align="left"> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -81,6 +84,10 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://swagger.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.svgporn.com/logos/swagger.svg" alt="swagger" width="40" height="40"/> 
 </a>
 
 </p>
