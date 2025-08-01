@@ -140,6 +140,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tdipto&show_icons=true&locale=en&layout=compact" alt="tdipto" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tdipto&show_icons=true&locale=en&layout=compact" alt="tdipto" /></p> -->
 
 
