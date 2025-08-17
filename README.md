@@ -1,7 +1,7 @@
 # Hello! I'm Tanzim Rahman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 - 💼 **Full-Stack Developer** with **1+ year of experience**, based in **Dhaka, Bangladesh**.
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1O0EKElwmQCnDTRlUm2_Kh6ScY0fMtNK2/view?usp=sharing](https://drive.google.com/file/d/1TzUa84qs81VA1Vy7Jy91Kgv_T9BxXf5G/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TzUa84qs81VA1Vy7Jy91Kgv_T9BxXf5G/view?usp=sharing)
 - 📫 How to reach me tdipto1@gmail.com
 
 
